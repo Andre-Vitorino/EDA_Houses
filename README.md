@@ -8,6 +8,8 @@ In this project i maked a exploratory data analysis to awnser some questions / h
 
 1 Wich condition level the houses are most sold?
 
+![Screenshot](H/H1.png)
+
 2 Houses with more bedrooms are most sold
 
 3 Houses with more bedrooms are more expensive
