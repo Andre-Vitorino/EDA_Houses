@@ -28,7 +28,7 @@ In this project i maked a exploratory data analysis to awnser some questions / h
 
 ![hypothesis3.1](/H/H3.PNG)
 
- False: Houses with more beddrooms are not ever the most expensives
+ Response: Starting from two bedrooms
 
 4 Wich is the value increased for each aditional bedroom in the house?
 
