@@ -4,7 +4,7 @@ This dataset contains house sale prices for King County, which includes Seattle.
 OBS: To run this code into your PC, is recommended that you run the requirements.txt, to get the same packages I'm runned in my PC
 
 
-In this project i maked a exploratory data analysis to awnser some questions / hypothesis and create some insights. Follow above all the questions / hyphotesis:
+In this project i maked a exploratory data analysis to solve some questions / hypothesis and create some insights. Follow above all the questions / hyphotesis:
 
 1 Wich condition level the houses are most sold?
 
